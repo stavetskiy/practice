@@ -27,7 +27,7 @@ public class Sort {
         int[] array = {1,5,2,4,10,6,0,3,10};
         Comparator comp = new Comparator();
 
-        //Change your code here
+        //Change your code her
         sort(array, comp);
         //Change your code here
 
